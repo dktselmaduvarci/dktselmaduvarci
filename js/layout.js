@@ -52,6 +52,8 @@
         '<i class="fab fa-whatsapp"></i></a>' +
         '<a class="instagram" href="https://www.instagram.com/dktselmaduvarci?igsh=MWRmbjhnbnh1eHR5bg%3D%3D&utm_source=qr" target="_blank" rel="noopener noreferrer" aria-label="Instagram profili">' +
         '<i class="fab fa-instagram"></i></a>' +
+        '<a class="maps" href="https://www.google.com/maps?q=Dkt.Selma+Duvarc%C4%B1,+Dil+ve+Konu%C5%9Fma+Terapisti" target="_blank" rel="noopener noreferrer" aria-label="Google Haritalar Konumu">' +
+        '<i class="fas fa-map-marker-alt"></i></a>' +
         '</div>';
 
     var CONTACT_HTML =
